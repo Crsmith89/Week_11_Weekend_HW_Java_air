@@ -9,7 +9,7 @@ public class CabinCrewTest {
 
     @Before
     public void before() {
-        cabinCrewMember = new CabinCrewMember("Babz", Rank.CAPTAIN);
+        cabinCrewMember = new CabinCrewMember("Babz", Rank.FLIGHTATTENDANT);
     }
 
     @Test
