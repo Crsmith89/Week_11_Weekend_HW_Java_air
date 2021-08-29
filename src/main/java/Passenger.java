@@ -3,7 +3,7 @@ public class Passenger {
     private String name;
     private int numOfBags;
 
-    public Passenger(String name, int numOfBags) {
+    public Passenger(String name, int i) {
         this.name = name;
         this.numOfBags = numOfBags;
     }

@@ -1,6 +1,6 @@
 public class Plane {
 
-    private PlaneType planeType;
+    public PlaneType planeType;
     private int capacity;
     private int weightLimit;
 
